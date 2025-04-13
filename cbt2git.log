@@ -1,0 +1,18 @@
+2025-04-13 20:23:19.152141 - Received CBT.V508.FILE517.PDS from FILE517.XMI 
+2025-04-13 20:23:19.153314 - Found $$$$NOTE.txt (text/plain) in CBT.V508.FILE517.PDS, moved to PDS/$$$$NOTE
+2025-04-13 20:23:19.153413 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE517.PDS, moved to PDS/$$$#DATE
+2025-04-13 20:23:19.153479 - Found $$README.txt (text/plain) in CBT.V508.FILE517.PDS, moved to PDS/$$README
+2025-04-13 20:23:19.153536 - Found @FILE517.txt (text/plain) in CBT.V508.FILE517.PDS, moved to PDS/@FILE517
+2025-04-13 20:23:19.153602 - Found ALTER.txt (text/plain) in CBT.V508.FILE517.PDS, moved to PDS/ALTER
+2025-04-13 20:23:19.153669 - Found ALTERPGM.bin (application/octet-stream) in CBT.V508.FILE517.PDS, moved to PDS/ALTERPGM
+2025-04-13 20:23:19.153779 - Found ANALYZER.txt (text/plain) in CBT.V508.FILE517.PDS, moved to PDS/ANALYZER
+2025-04-13 20:23:19.153873 - Found PROSE.txt (text/plain) in CBT.V508.FILE517.PDS, moved to PDS/PROSE
+2025-04-13 20:23:19.153944 - Found REFORM.txt (text/plain) in CBT.V508.FILE517.PDS, moved to PDS/REFORM
+2025-04-13 20:23:19.154024 - Found SKELETON.txt (text/plain) in CBT.V508.FILE517.PDS, moved to PDS/SKELETON
+2025-04-13 20:23:19.154201 - Found SYNTAX.bin (application/octet-stream) in CBT.V508.FILE517.PDS, moved to PDS/SYNTAX
+2025-04-13 20:23:19.154357 - Found TRACE.txt (text/plain) in CBT.V508.FILE517.PDS, moved to PDS/TRACE
+2025-04-13 20:23:19.154526 - Found XCOM.txt (text/plain) in CBT.V508.FILE517.PDS, moved to PDS/XCOM
+2025-04-13 20:23:19.154656 - Found XCOMCOMP.bin (application/octet-stream) in CBT.V508.FILE517.PDS, moved to PDS/XCOMCOMP
+2025-04-13 20:23:19.154798 - Found XMON.txt (text/plain) in CBT.V508.FILE517.PDS, moved to PDS/XMON
+2025-04-13 20:23:19.154882 - Found XPLBNF.txt (text/plain) in CBT.V508.FILE517.PDS, moved to PDS/XPLBNF
+2025-04-13 20:23:19.154948 - Found XPLLIBR.txt (text/plain) in CBT.V508.FILE517.PDS, moved to PDS/XPLLIBR
